@@ -10,6 +10,7 @@ Stuff here is mostly dev tooling like plugins and scripts.
 
 - [cycle-trail.nvim](https://github.com/swit33/cycle_trail.nvim) - Mark plugin that works on a stack of marks and allows you to cycle through them.
 - [context-yank.nvim](https://github.com/swit33/context-yank.nvim) - Yanking with markdown context (filename, line number, code block with filetype).
+- [side-bufs.nvim](https://github.com/swit33/side-bufs.nvim) - Sidebar buffer list with bufferline-like jumping
 
 ## Tools
 
